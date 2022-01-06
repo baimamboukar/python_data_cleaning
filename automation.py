@@ -101,7 +101,7 @@ class DataCleaner():
         """
         ✨✨✨ SAVE CLEAN EXCEL DATA ✨✨✨
 
-        🎯 Summary: This method writes the cleaned data to an excel file
+        clean_sheet.save(file)Summary: This method writes the cleaned data to an excel file
         📑 Arguments:
             📌 self(Object Reference) :=> Object reference of the class
             📌 clean_sheet(Object) :=> Cleaned data to save
