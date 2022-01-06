@@ -128,7 +128,6 @@ class DataCleaner():
 
 
 """ == == = DRIVER CODE == == =  """
-
 if __name__ == "__main__":
     cleaner = DataCleaner("datasource/employee_database.csv",
                           "datasource/employee_database.xlsx", 3, "@helpinghands.cm", "@handsinhands.cm")
